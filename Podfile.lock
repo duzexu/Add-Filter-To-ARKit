@@ -1,0 +1,16 @@
+PODS:
+  - GPUImage (0.1.7)
+
+DEPENDENCIES:
+  - GPUImage (from `./GPUImage`)
+
+EXTERNAL SOURCES:
+  GPUImage:
+    :path: "./GPUImage"
+
+SPEC CHECKSUMS:
+  GPUImage: bd7e201b9aa91e85f401ed7a6d9867a07a404693
+
+PODFILE CHECKSUM: 5aa2d8dc0ce80bd93d8976963a55b02cc424b5ac
+
+COCOAPODS: 1.9.1
